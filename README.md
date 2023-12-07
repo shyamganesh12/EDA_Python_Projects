@@ -22,10 +22,10 @@ Data visualization
 Data storage and references
 
 # Tools
-Python
- Numpy
- pandas
- matplotib
- seaborn
-JupyterLab
-PostgreSQL
+Python || Numpy ||  pandas ||  matplotib ||  seaborn || JupyterLab || PostgreSQL
+
+
+
+
+
+
